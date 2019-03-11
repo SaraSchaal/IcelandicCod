@@ -1,0 +1,629 @@
+[
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 2,
+   "s.kynfaeri": 67,
+   "s.kynthroski": 2,
+   "s.lengd": 78,
+   "s.lifur": 118,
+   "s.maeliadgerd": 3,
+   "s.magaastand": 1,
+   "s.nr": 1,
+   "s.oslaegt": 4057,
+   "s.radnr": 1,
+   "s.slaegt": 3597,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.heildarthyngd": 2,
+   "s.kvarnanr": 1,
+   "s.maeliadgerd": 20,
+   "s.nr": 1,
+   "s.radnr": 2,
+   "s.ranfiskurteg": 1,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 2,
+   "s.kynfaeri": 198,
+   "s.kynthroski": 4,
+   "s.lengd": 103,
+   "s.lifur": 533,
+   "s.maeliadgerd": 3,
+   "s.nr": 2,
+   "s.oslaegt": 10105,
+   "s.radnr": 3,
+   "s.slaegt": 8945,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 2,
+   "s.kynfaeri": 214,
+   "s.kynthroski": 2,
+   "s.lengd": 90,
+   "s.lifur": 302,
+   "s.maeliadgerd": 3,
+   "s.nr": 3,
+   "s.oslaegt": 7525,
+   "s.radnr": 4,
+   "s.slaegt": 6650,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 1,
+   "s.kynthroski": 1,
+   "s.lengd": 65,
+   "s.lifur": 96,
+   "s.maeliadgerd": 3,
+   "s.nr": 4,
+   "s.oslaegt": 2582,
+   "s.radnr": 5,
+   "s.slaegt": 2364,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 1,
+   "s.kynthroski": 1,
+   "s.lengd": 72,
+   "s.lifur": 96,
+   "s.maeliadgerd": 3,
+   "s.nr": 5,
+   "s.oslaegt": 3435,
+   "s.radnr": 6,
+   "s.slaegt": 3200,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 2,
+   "s.kynthroski": 1,
+   "s.lengd": 69,
+   "s.lifur": 32,
+   "s.maeliadgerd": 3,
+   "s.nr": 6,
+   "s.oslaegt": 3073,
+   "s.radnr": 7,
+   "s.slaegt": 2814,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 2,
+   "s.kynfaeri": 274,
+   "s.kynthroski": 2,
+   "s.lengd": 90,
+   "s.lifur": 640,
+   "s.maeliadgerd": 3,
+   "s.nr": 7,
+   "s.oslaegt": 7980,
+   "s.radnr": 8,
+   "s.slaegt": 6465,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 2,
+   "s.kynthroski": 1,
+   "s.lengd": 82,
+   "s.lifur": 164,
+   "s.maeliadgerd": 3,
+   "s.nr": 8,
+   "s.oslaegt": 4852,
+   "s.radnr": 9,
+   "s.slaegt": 4405,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 1,
+   "s.kynfaeri": 439,
+   "s.kynthroski": 4,
+   "s.lengd": 97,
+   "s.lifur": 340,
+   "s.maeliadgerd": 3,
+   "s.nr": 9,
+   "s.oslaegt": 6980,
+   "s.radnr": 10,
+   "s.slaegt": 5960,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 2,
+   "s.kynfaeri": 194,
+   "s.kynthroski": 3,
+   "s.lengd": 90,
+   "s.lifur": 590,
+   "s.maeliadgerd": 3,
+   "s.nr": 10,
+   "s.oslaegt": 8085,
+   "s.radnr": 11,
+   "s.slaegt": 7010,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 1,
+   "s.kynthroski": 1,
+   "s.lengd": 81,
+   "s.lifur": 184,
+   "s.maeliadgerd": 3,
+   "s.nr": 11,
+   "s.oslaegt": 5419,
+   "s.radnr": 12,
+   "s.slaegt": 4835,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 1,
+   "s.kynfaeri": 208,
+   "s.kynthroski": 3,
+   "s.lengd": 63,
+   "s.lifur": 130,
+   "s.maeliadgerd": 3,
+   "s.nr": 12,
+   "s.oslaegt": 2700,
+   "s.radnr": 13,
+   "s.slaegt": 2218,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 2,
+   "s.kynfaeri": 181,
+   "s.kynthroski": 4,
+   "s.lengd": 95,
+   "s.lifur": 746,
+   "s.maeliadgerd": 3,
+   "s.nr": 13,
+   "s.oslaegt": 9820,
+   "s.radnr": 14,
+   "s.slaegt": 8415,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 1,
+   "s.kynfaeri": 165,
+   "s.kynthroski": 4,
+   "s.lengd": 89,
+   "s.lifur": 360,
+   "s.maeliadgerd": 3,
+   "s.nr": 14,
+   "s.oslaegt": 6275,
+   "s.radnr": 15,
+   "s.slaegt": 5452,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 1,
+   "s.kynfaeri": 469,
+   "s.kynthroski": 3,
+   "s.lengd": 84,
+   "s.lifur": 330,
+   "s.maeliadgerd": 3,
+   "s.nr": 15,
+   "s.oslaegt": 6635,
+   "s.radnr": 16,
+   "s.slaegt": 5660,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 2,
+   "s.kynthroski": 1,
+   "s.lengd": 76,
+   "s.lifur": 123,
+   "s.maeliadgerd": 3,
+   "s.nr": 16,
+   "s.oslaegt": 4150,
+   "s.radnr": 17,
+   "s.slaegt": 3818,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 2,
+   "s.kynthroski": 1,
+   "s.lengd": 75,
+   "s.lifur": 159,
+   "s.maeliadgerd": 3,
+   "s.nr": 17,
+   "s.oslaegt": 3943,
+   "s.radnr": 18,
+   "s.slaegt": 3582,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 2,
+   "s.kynthroski": 1,
+   "s.lengd": 67,
+   "s.lifur": 30,
+   "s.maeliadgerd": 3,
+   "s.nr": 18,
+   "s.oslaegt": 2387,
+   "s.radnr": 19,
+   "s.slaegt": 2255,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 2,
+   "s.kynfaeri": 116,
+   "s.kynthroski": 3,
+   "s.lengd": 97,
+   "s.lifur": 493,
+   "s.maeliadgerd": 3,
+   "s.nr": 19,
+   "s.oslaegt": 9105,
+   "s.radnr": 20,
+   "s.slaegt": 7960,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 2,
+   "s.kynthroski": 2,
+   "s.lengd": 83,
+   "s.maeliadgerd": 3,
+   "s.nr": 20,
+   "s.oslaegt": 5205,
+   "s.radnr": 21,
+   "s.slaegt": 4834,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 2,
+   "s.kynthroski": 1,
+   "s.lengd": 67,
+   "s.lifur": 32,
+   "s.maeliadgerd": 3,
+   "s.nr": 21,
+   "s.oslaegt": 2766,
+   "s.radnr": 22,
+   "s.slaegt": 2613,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 2,
+   "s.kynfaeri": 533,
+   "s.kynthroski": 3,
+   "s.lengd": 105,
+   "s.lifur": 1063,
+   "s.maeliadgerd": 3,
+   "s.nr": 22,
+   "s.oslaegt": 13035,
+   "s.radnr": 23,
+   "s.slaegt": 11065,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 1,
+   "s.kynthroski": 1,
+   "s.lengd": 60,
+   "s.lifur": 15,
+   "s.maeliadgerd": 3,
+   "s.nr": 23,
+   "s.oslaegt": 1927,
+   "s.radnr": 24,
+   "s.slaegt": 1811,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 2,
+   "s.kynfaeri": 99,
+   "s.kynthroski": 2,
+   "s.lengd": 95,
+   "s.lifur": 473,
+   "s.maeliadgerd": 3,
+   "s.nr": 24,
+   "s.oslaegt": 7885,
+   "s.radnr": 25,
+   "s.slaegt": 6860,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 1,
+   "s.kynfaeri": 294,
+   "s.kynthroski": 3,
+   "s.lengd": 104,
+   "s.lifur": 530,
+   "s.maeliadgerd": 3,
+   "s.nr": 25,
+   "s.oslaegt": 9925,
+   "s.radnr": 26,
+   "s.slaegt": 8560,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 1,
+   "s.kynthroski": 1,
+   "s.lengd": 60,
+   "s.lifur": 16,
+   "s.maeliadgerd": 3,
+   "s.nr": 26,
+   "s.oslaegt": 1855,
+   "s.radnr": 27,
+   "s.slaegt": 1726,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 1,
+   "s.kynthroski": 1,
+   "s.lengd": 77,
+   "s.lifur": 104,
+   "s.maeliadgerd": 3,
+   "s.nr": 27,
+   "s.oslaegt": 4734,
+   "s.radnr": 28,
+   "s.slaegt": 4366,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 1,
+   "s.kynfaeri": 167,
+   "s.kynthroski": 3,
+   "s.lengd": 69,
+   "s.lifur": 108,
+   "s.maeliadgerd": 3,
+   "s.nr": 28,
+   "s.oslaegt": 3143,
+   "s.radnr": 29,
+   "s.slaegt": 2737,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 1,
+   "s.kynfaeri": 25,
+   "s.kynthroski": 3,
+   "s.lengd": 54,
+   "s.lifur": 35,
+   "s.maeliadgerd": 3,
+   "s.nr": 29,
+   "s.oslaegt": 1586,
+   "s.radnr": 30,
+   "s.slaegt": 1414,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 1,
+   "s.kynfaeri": 386,
+   "s.kynthroski": 3,
+   "s.lengd": 79,
+   "s.lifur": 130,
+   "s.maeliadgerd": 3,
+   "s.nr": 30,
+   "s.oslaegt": 4990,
+   "s.radnr": 31,
+   "s.slaegt": 4259,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 1,
+   "s.kynthroski": 1,
+   "s.lengd": 60,
+   "s.lifur": 40,
+   "s.maeliadgerd": 3,
+   "s.nr": 31,
+   "s.oslaegt": 1971,
+   "s.radnr": 32,
+   "s.slaegt": 1826,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 1,
+   "s.kynthroski": 1,
+   "s.lengd": 71,
+   "s.lifur": 53,
+   "s.maeliadgerd": 3,
+   "s.nr": 32,
+   "s.oslaegt": 3224,
+   "s.radnr": 33,
+   "s.slaegt": 3001,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ },
+ {
+  "entityId": "hafvog.skraning",
+  "values": {
+   "s.fjoldi": 1,
+   "s.kyn": 2,
+   "s.kynfaeri": 315,
+   "s.kynthroski": 4,
+   "s.lengd": 107,
+   "s.lifur": 522,
+   "s.maeliadgerd": 3,
+   "s.nr": 33,
+   "s.oslaegt": 13140,
+   "s.radnr": 34,
+   "s.slaegt": 10090,
+   "s.synis_id": 682,
+   "s.tegund": 1,
+   "s.tegund as faedutegund": 1
+  }
+ }
+]

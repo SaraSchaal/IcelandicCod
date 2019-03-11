@@ -1,0 +1,16 @@
+[{
+ "entityId": "hafvog.stodvar",
+ "values": {
+  "dags": "2018-12-07",
+  "hnattstada": -1,
+  "landsyni": false,
+  "leidangur": "NYT3-2018",
+  "londunarhofn": 0,
+  "maelingarmenn": "EinarPJ, Sara Schaal",
+  "medferd_afla": 1,
+  "stod": 1,
+  "synaflokkur": 22,
+  "synis_id": 682,
+  "veidarfaeri": 1
+ }
+}]

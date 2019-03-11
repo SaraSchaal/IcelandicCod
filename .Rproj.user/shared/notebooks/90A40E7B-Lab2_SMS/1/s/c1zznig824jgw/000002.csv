@@ -1,0 +1,4 @@
+"0","binom.test(k,n,p)
+"
+"2","Error in binom.test(k, n, p) : object 'k' not found
+"

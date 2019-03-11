@@ -1,0 +1,11 @@
+Iceland Data Sheet information
+
+Iceland_XX_Original.csv
+Original data file sent from Icelandic collaborators
+
+Iceland_XX_Head.csv
+Updated to have both the correct header names that match across files and to be in proper .csv format
+
+Iceland_XX_Samp.csv
+Updated to have my sample names in each file
+

@@ -1,0 +1,4 @@
+[{
+ "entityId": "hafvog.umhverfi",
+ "values": {"synis_id": 682}
+}]

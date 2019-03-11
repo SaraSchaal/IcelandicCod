@@ -1,0 +1,105 @@
+---
+title: "Iceland Samples"
+author: "Sara Michele Schaal"
+date: "12/13/2018"
+output: pdf_document
+---
+
+
+## Load Packages
+
+```{r, warning = FALSE}
+suppressPackageStartupMessages(library(dplyr))
+knitr::opts_knit$set(root.dir = "/Users/saraschaal/Documents/Northeastern/LotterhosLab/Research/Iceland/Analysis")
+```
+
+## Load & Manipulate Dataframes
+Need to manipulate dataframes because they came from different people with different headings. Once in the proper order I create one master dataframe.
+\newline
+```{r}
+##################################################
+#### Load DataFrames #############################
+##################################################
+
+# Northeast offshore
+df.NEOff <- read.csv2("./data/Iceland_NEOffshore_Original.csv", header = TRUE, sep = ";")
+# Southwest offshore
+df.SWOff <- read.csv2("./data/Iceland_SWOffshore_Original.csv", header = TRUE, sep = ";")
+# Northeast nearshore
+df.NENear <- read.csv("./data/Iceland_NENearshore_Original.csv", header = TRUE)
+# Southwest nearshore
+df.SWNear <- read.csv("./data/Iceland_SWNearshore_Original.csv", header = TRUE)
+```
+
+```{r}
+########################
+#### Adjust Columns ####
+########################
+
+############################
+#### Northeast offshore ####
+  # change column names
+  colnames(df.NEOff)[2] <- "synis.id"
+
+############################
+### Northeast nearshore ####
+  # change column names
+  colnames(df.NENear) <- c("sample.id", "synis.id", "station", "number", "length", 
+                           "sex", "maturity", "ungutted", "gutted", "liver", 
+                           "pos.start.n", "pos.start.w", "pos.end.n", "pos.end.w", 
+                           "depth.start", "depth.end", "year", "month", "day")
+  
+  # add columns with NAs for missing data columns
+  df.NENear.NA <- matrix(NA, ncol = (ncol(df.NEOff)-ncol(df.NENear)), nrow = nrow(df.NENear))
+  colnames(df.NENear.NA) <- c("cruise", "vessel", "gear", "stat.square", 
+                              "towlength", "townumber", "species", "age", "gonads")
+  
+  # combine NA and original dataframe
+  df.NENear <- cbind(df.NENear, df.NENear.NA)
+
+#############################  
+#### Southwest nearshore ####
+  # change column names
+  colnames(df.SWNear)[c(1:2, 6:13, 16, 22:31)] <- c("sample.id", "synis.id", "cruise", 
+                                                    "station", "vessel", "year", "month", 
+                                                    "day", "pos.start.n", "pos.start.w", 
+                                                    "depth.start", "species", "number", 
+                                                    "length", "sex", "maturity", "age", 
+                                                    "ungutted", "gutted", "gonads", "liver")
+  # remove only necessary columns
+  df.SWNear <- df.SWNear[,c(1:2, 6:13, 16, 22:31)]
+  
+  # add columns with NAs for missing data columns
+  df.SWNear.NA <- matrix(NA, ncol = (ncol(df.SWOff)-ncol(df.SWNear)), nrow = nrow(df.SWNear))
+  colnames(df.SWNear.NA) <- c("gear", "pos.end.n", "pos.end.w", "depth.end", 
+                              "stat.square", "towlength", "townumber")
+  
+  # combine NA and original dataframe
+  df.SWNear <- cbind(df.SWNear, df.SWNear.NA)
+
+############################
+#### Southwest offshore ####
+  # change column names
+  colnames(df.SWOff)[2] <- "synis.id" 
+
+```
+
+
+```{r}
+#################################
+#### Create Master Datasheet ####
+#################################
+
+### Add sample names
+  df.SWOff$SampleID <- sampleNames(18, 1:51, "Gm")
+  df.NENear$SampleID <- sampleNames(18, 52:101, "Gm")
+  df.NEOff$SampleID <- sampleNames(18, 102:151, "Gm")
+  df.SWNear$SampleID <- sampleNames(18, 152:194, "Gm")
+
+### Create single dataframe
+  df.IcelandMaster <- rbind(df.SWOff, df.NENear, df.NEOff, df.SWNear)
+  df.IcelandMaster <- df.IcelandMaster[,c(29, 1:28)]
+
+### Export Dataframe
+  write.csv(df.IcelandMaster, "./data/IcelandMasterData.csv", row.names = FALSE)
+```

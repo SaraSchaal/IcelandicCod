@@ -1,0 +1,13 @@
+[{
+ "entityId": "hafvog.leidangrar",
+ "values": {
+  "dags_byrjun": "2018-12-07",
+  "dags_endir": "2018-12-07",
+  "leidangur": "NYT3-2018",
+  "leidangursstjori": "Sara Schaal",
+  "leidangursteg": 5,
+  "maelingamenn": "EinarPJ, Sara Schaal",
+  "synaflokkur": 22,
+  "veidafaeri": 1
+ }
+}]

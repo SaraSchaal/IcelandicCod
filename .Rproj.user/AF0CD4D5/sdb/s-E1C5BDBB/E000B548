@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1544734089790.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E000B548",
+    "lastKnownWriteTime" : 7526189476180131846,
+    "last_content_update" : 1544734089790,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "BDFDB6A7",
+        "caption" : "df.NENear",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=df.NENear&cache_key=BDFDB6A7",
+        "displayedObservations" : 50,
+        "environment" : "",
+        "object" : "df.NENear",
+        "preview" : 0,
+        "totalObservations" : 50,
+        "variables" : 14
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

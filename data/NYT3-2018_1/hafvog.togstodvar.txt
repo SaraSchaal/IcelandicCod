@@ -1,0 +1,7 @@
+[{
+ "entityId": "hafvog.togstodvar",
+ "values": {
+  "dregid_fra": "A",
+  "synis_id": 682
+ }
+}]
